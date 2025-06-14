@@ -1,13 +1,7 @@
 # diabetes-analysis-statistical-inference
 
-# Technical Report: Statistical Inference and Analysis on Diabetes Dataset
-
 ## Project Title:
 **Statistical Inference and Predictive Analysis on Diabetes Risk Factors**
-
-## Course:
-**DSAI 307: Statistical Inference**
-
 ---
 
 ## 1. Introduction
@@ -210,6 +204,4 @@ This project demonstrated the use of statistical inference to extract meaningful
 - Knaflic, C. N. (2015). *Storytelling with Data*. Wiley.
 - Field standard statistical methods for t-tests, CI estimation, and correlation analysis
 
----
 
-**End of Report**
